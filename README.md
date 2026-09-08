@@ -1,10 +1,10 @@
-# Home SOC Lab — Linux-Only Edition (Low-RAM Build)
+# Home SOC Lab — Linux-Only  
 
 **Status:** 🚧 In Progress — Phase 3 (Wazuh Server Installation)
 
 A home-built Security Operations Center lab: Wazuh SIEM, Sysmon-for-Linux
 telemetry, and MITRE ATT&CK-mapped attack simulation, built on
-resource-constrained hardware (~3.8 GB total RAM). This repo will be updated
+resource-constrained hardware . This repo will be updated
 as each phase is completed.
 
 ---
