@@ -101,23 +101,6 @@ Rule source: [`detection-rules/local_rules_final.xml`](detection-rules/local_rul
 The full evidence, screenshots and action plan are in the report.
 
 ---
-
-## Repo structure
-
-```
-home-soc-lab/
-├── README.md
-├── incident-reports/
-│   └── Incident_Report_Home_SOC_Lab.pdf
-├── detection-rules/
-│   └── local_rules_final.xml
-├── evidence/                 # log extracts referenced in the report
-├── screenshots/              # optional: key figures from the report
-└── lessons-learned.md        # optional
-```
-
----
-
 ## Lessons learned
 
 ### Build phase
