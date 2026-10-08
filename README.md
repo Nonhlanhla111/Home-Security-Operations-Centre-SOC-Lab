@@ -25,7 +25,8 @@ A home-built Security Operations Center lab: a Wazuh SIEM, auditd and file integ
 
 **Status:** ✅ Complete: attack simulated, detected, investigated and written up
 
-📄 **Full incident report:** [`incident-reports/Incident_Report_Home_SOC_Lab.pdf`](incident-reports/Incident_Report_Home_SOC_Lab.pdf)
+📄 **Full incident report:** [`incident-reports/Incident_Report_Home_SOC_Lab.pdf`](Incident_Report_Home_SOC_Lab.pdf
+)
 
 > All activity was an authorised exercise on an isolated host-only network. The "ransomware" only renames files to `.locked`; nothing destructive was used.
 
