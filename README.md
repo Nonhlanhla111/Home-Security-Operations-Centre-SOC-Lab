@@ -1,4 +1,4 @@
-#Home SOC Lab: Linux-Only
+# Home SOC Lab: Linux-Only
 
 Status: ✅ Complete: attack simulated, detected, investigated and written up
 
